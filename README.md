@@ -1,6 +1,7 @@
 <!-- markdownlint-disable MD034 bare urls -->
 <!-- markdownlint-disable MD033 no-inline-html -->
 <!-- markdownlint-disable MD012 multiple-blank-lines -->
+<!-- markdownlint-disable MD041 irst-line-heading/first-line-h1 -->
 
 <!--
 **mjakobis/mjakobis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,6 +17,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# 😱
 
-![ ](https://raw.githubusercontent.com/mjakobis/mjakobis/refs/heads/main/svgs/c.svg)
+<div style="width: 100%;">
+  <img src="https://raw.githubusercontent.com/mjakobis/mjakobis/refs/heads/main/svgs/c.svg" style="width: 100%;" alt="My SVG Image">
+</div>

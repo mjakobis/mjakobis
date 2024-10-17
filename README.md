@@ -18,4 +18,4 @@ Here are some ideas to get you started:
 -->
 # 😱
 
-<!-- ![ ](https://raw.githubusercontent.com/mjakbis/mjakobis/main/svgs/c.svg) -->
+![ ](https://raw.githubusercontent.com/mjakobis/mjakobis/refs/heads/main/svgs/c.svg)
